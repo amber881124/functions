@@ -1,1 +1,5 @@
-"# functions" 
+### enumerate
+### lambda
+### map 
+### filter
+### zip
